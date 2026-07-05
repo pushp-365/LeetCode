@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/pushp-365/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pushp-365/LeetCode/tree/master/0509-fibonacci-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/pushp-365/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/pushp-365/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pushp-365/LeetCode/tree/master/0001-two-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/pushp-365/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/pushp-365/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/pushp-365/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/pushp-365/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
