@@ -63,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/pushp-365/LeetCode/tree/master/1288-remove-covered-intervals) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/pushp-365/LeetCode/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/pushp-365/LeetCode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/pushp-365/LeetCode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
