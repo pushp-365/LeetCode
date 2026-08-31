@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pushp-365/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/pushp-365/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pushp-365/LeetCode/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/pushp-365/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pushp-365/LeetCode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/pushp-365/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1288-remove-covered-intervals](https://github.com/pushp-365/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/pushp-365/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/pushp-365/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pushp-365/LeetCode/tree/master/0042-trapping-rain-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pushp-365/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pushp-365/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -177,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pushp-365/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pushp-365/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pushp-365/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
