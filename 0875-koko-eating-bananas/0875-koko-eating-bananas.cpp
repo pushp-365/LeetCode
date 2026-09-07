@@ -4,8 +4,11 @@ public:
     bool check(int k, vector<int>& piles, int h) {
         long long hours = 0;
 
-        for (int bananas : piles) {
-            hours += (bananas + k - 1) / k;
+        for (int value : piles) {
+            hours += value / k;
+
+            if (value % k != 0)
+                hours++;
 
             if (hours > h)
                 return false;
@@ -17,8 +20,7 @@ public:
     int minEatingSpeed(vector<int>& piles, int h) {
         int n = piles.size();
 
-        int l = 1;
-        int r = 1e9;
+        int l = 1, r = 1e9;
         int ans = r;
 
         while (l <= r) {
