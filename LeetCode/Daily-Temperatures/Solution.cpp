@@ -11,7 +11,7 @@
 11                st.pop();
 12            }
 13
-14            if (!st.empty()) {
+14            if (!st.empty()){
 15                int val = st.top().second;
 16                ans[i] = val - i;
 17            }
